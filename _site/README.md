@@ -1,2 +1,1 @@
-# myjekyll
-
+# jekyll-theme

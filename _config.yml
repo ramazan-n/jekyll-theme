@@ -1,3 +1,7 @@
 sass:
   style: :compressed
-permalink: /:slug.html
+permalink: :slug.html
+
+theme_config:
+  maintitle:  my first jekyll theme
+  back_home_text: "back" 

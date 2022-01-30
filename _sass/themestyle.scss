@@ -7,6 +7,13 @@ body {
   font-family:  "ubuntu", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   background-color: rgb(236, 210, 176);
   margin: 0;
+  h1, h2, h3{
+    padding: 6px;
+    text-align: center;
+    margin: 0;
+    margin-left: 10px;
+    color: brown;
+  }
 }
 a {
   text-decoration: none;
@@ -15,12 +22,17 @@ a {
 .beta{
   height: 100%;
   margin: 10px;
+  margin-top: 0;
   border-radius: 5px;
   padding: 10px;
   background-color: burlywood;
   h1, h2, h3{
+    text-align: center;
     margin: 0;
     margin-left: 10px;
     color: brown;
+  }
+  p{
+    line-height: 0.4;
   }
 }
