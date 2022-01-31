@@ -1,7 +1,6 @@
 sass:
   style: :compressed
-url: https://ramazan-n.github.io/jekyll-theme/
-permalink: /:title.html
+permalink: /mytheme/:title.html
 
 theme_config:
   maintitle:  my first jekyll theme
