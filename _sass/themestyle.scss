@@ -5,19 +5,19 @@ html { height: 100%; }
 
 body {
   font-family:  "ubuntu", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
-  background-color: rgb(236, 210, 176);
+  background-color: #ffffff;
   margin: 0;
   h1, h2, h3{
     padding: 6px;
     text-align: center;
     margin: 0;
     margin-left: 10px;
-    color: brown;
+    color: #2ec27e;
   }
 }
 a {
   text-decoration: none;
-
+  color: 	#241f31;
 }
 .beta{
   height: 100%;
@@ -25,13 +25,14 @@ a {
   margin-top: 0;
   border-radius: 5px;
   padding: 10px;
-  background-color: burlywood;
+  background-color: 	 #f6f5f4;
   h1, h2, h3{
     text-align: center;
     margin: 0;
     margin-left: 10px;
-    color: brown;
+    color: #2ec27e;
   }
+  a{color:  #241f31;}
   p{
     line-height: 0.4;
   }
