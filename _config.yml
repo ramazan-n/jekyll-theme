@@ -1,7 +1,6 @@
 sass:
   style: :compressed
-baseurl: "/jekyll-theme"
-url:
+baseurl: '/jekyll-theme'
 permalink: /:title.html
 
 theme_config:
