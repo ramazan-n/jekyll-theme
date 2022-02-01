@@ -1,8 +1,8 @@
 sass:
   style: :compressed
-baseurl: '/jekyll-theme/'
+baseurl: "/jekyll-theme/"
 permalink: /:slug.html
 
 theme_config:
-  maintitle:  my first jekyll theme
-  back_home_text: "back" 
+  maintitle: my first jekyll theme
+  back_home_text: "back"
